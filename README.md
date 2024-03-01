@@ -150,3 +150,14 @@ public fun swap_token_y<X, Y>(
 ): Coin<X> {}
 
 ```
+
+changes to move.toml to inlcude KriyaDEX as dependency.
+
+```
+[dependencies]
+...
+kriya_spot_dex = { git = "https://github.com/efficacy-finance/kriya-dex-interface.git", subdir = "./", rev = "latest", override = true }
+
+[addresses]
+kriya = "0xe10f85f47c6d11f63e650aa7daf168c55ead9abb6da4227eba5dd5e4f8d890b1"
+```
