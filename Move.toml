@@ -1,7 +1,7 @@
 [package]
 name = "kriya_spot_dex"
 version = "1.0.0"
-published-at = "0xe10f85f47c6d11f63e650aa7daf168c55ead9abb6da4227eba5dd5e4f8d890b1"
+published-at = "0xa0eba10b173538c8fecca1dff298e488402cc9ff374f8a12ca7758eebe830b66"
 
 [addresses]
 kriya = "0xa0eba10b173538c8fecca1dff298e488402cc9ff374f8a12ca7758eebe830b66"
